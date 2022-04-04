@@ -1,6 +1,4 @@
-# helloworld
-iniciando no github
+# my official github
 
-Editando o arquivo readme.md
-
-editando agora o branch criado ... para depois fazer o merge com o branch master
+this is the github I officially use:
+https://github.com/rudneir2
